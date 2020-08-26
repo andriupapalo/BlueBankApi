@@ -1,0 +1,30 @@
+{
+  "ApiBlueBank": {
+    "applicationUrl": "http://localhost:5000",
+    "commandName": "Project",
+    "environmentVariables": {
+      "ASPNETCORE_ENVIRONMENT": "Development",
+      "Token_secreto": "79782606fjnkdfsjaierrsadasd7854"
+    },
+    "launchBrowser": true
+  },
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:64780",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "Token_secreto": "79782606fjnkdfsjaierrsadasd7854",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
+}
